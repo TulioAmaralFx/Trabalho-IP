@@ -1,2 +1,2 @@
-#inclue <stdio.h>
-#inclu
+#include <stdio.h>
+#include <math.h>
